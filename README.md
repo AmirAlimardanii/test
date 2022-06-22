@@ -1,3 +1,3 @@
-# Demo version
+# Demo
 
 for testing
